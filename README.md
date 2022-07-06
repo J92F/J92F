@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @J92F
+- 👀 I’m interested in  aprender uma nova área
+- 🌱 I’m currently learning front-end
